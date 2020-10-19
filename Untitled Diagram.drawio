@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-19T03:55:26.584Z" agent="5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="DouyeYxJsBLfvda4mCA2" version="13.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-19T03:55:33.176Z" agent="5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="VBYOJctQE5GsXcNVNLIY" version="13.8.0" type="github">
   <diagram name="Page-1" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="1422" dy="713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -97,9 +97,6 @@
         </mxCell>
         <mxCell id="LGrF4aPvjSiB4dfjYXlf-78" value="列表页表头不需要有提交状态&#xa;录入页面是提交按钮&#xa;需要查看录入查勘现场情况、车辆统筹情况&#xa;录入剩余项目，包括上传图片" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontSize=14;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="878" y="745.5" width="300" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="LGrF4aPvjSiB4dfjYXlf-79" value="" style="whiteSpace=wrap;html=1;labelBackgroundColor=#ffffff;fontSize=14;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="740" y="340" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
