@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-19T03:55:33.176Z" agent="5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="VBYOJctQE5GsXcNVNLIY" version="13.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-19T05:01:26.342Z" agent="5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="ve2nnaUoB6_yoEVLxR3B" version="13.8.0" type="github">
   <diagram name="Page-1" id="97916047-d0de-89f5-080d-49f4d83e522f">
-    <mxGraphModel dx="1422" dy="713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1634" dy="747" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,7 +13,7 @@
         <mxCell id="13" value="理赔员" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="560" y="400" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LGrF4aPvjSiB4dfjYXlf-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpSize=6;orthogonalLoop=1;jettySize=auto;html=1;endSize=6;strokeWidth=4;fontSize=14;fontColor=#FFFFFF;" edge="1" parent="1">
+        <mxCell id="LGrF4aPvjSiB4dfjYXlf-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpSize=6;orthogonalLoop=1;jettySize=auto;html=1;endSize=6;strokeWidth=4;fontSize=14;fontColor=#FFFFFF;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="660" y="690" as="targetPoint" />
             <mxPoint x="660" y="620" as="sourcePoint" />
@@ -50,7 +50,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LGrF4aPvjSiB4dfjYXlf-62" value="" style="endArrow=classic;startArrow=classic;html=1;strokeWidth=4;" edge="1" parent="1">
+        <mxCell id="LGrF4aPvjSiB4dfjYXlf-62" value="" style="endArrow=classic;startArrow=classic;html=1;strokeWidth=4;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="765" y="100" as="sourcePoint" />
             <mxPoint x="775" y="270" as="targetPoint" />
@@ -59,10 +59,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LGrF4aPvjSiB4dfjYXlf-64" value="列表页表头得有提交状态这一栏&#xa;录入页面是提交和暂存按钮&#xa;需要录入查勘现场情况、车辆统筹情况&#xa;上传图片" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="LGrF4aPvjSiB4dfjYXlf-64" value="列表页表头得有提交状态这一栏&#xa;录入页面是提交和暂存按钮&#xa;需要录入查勘现场情况、车辆统筹情况&#xa;上传图片" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="888" y="120" width="300" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="LGrF4aPvjSiB4dfjYXlf-69" value="" style="endArrow=classic;startArrow=classic;html=1;strokeWidth=4;" edge="1" parent="1">
+        <mxCell id="LGrF4aPvjSiB4dfjYXlf-69" value="" style="endArrow=classic;startArrow=classic;html=1;strokeWidth=4;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="768" y="430" as="sourcePoint" />
             <mxPoint x="768" y="600" as="targetPoint" />
@@ -71,10 +71,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LGrF4aPvjSiB4dfjYXlf-70" value="列表页表头不需要有提交状态&#xa;录入页面是提交按钮&#xa;需要查看录入查勘现场情况、车辆统筹情况&#xa;录入剩余项目，包括上传图片" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontSize=14;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="LGrF4aPvjSiB4dfjYXlf-70" value="录入页面是提交按钮&#xa;需要查看录入查勘现场情况、车辆统筹情况&#xa;录入剩余项目，包括上传图片" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontSize=14;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="878" y="465.5" width="300" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="LGrF4aPvjSiB4dfjYXlf-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpSize=6;orthogonalLoop=1;jettySize=auto;html=1;endSize=6;strokeWidth=4;fontSize=14;fontColor=#FFFFFF;" edge="1" parent="1">
+        <mxCell id="LGrF4aPvjSiB4dfjYXlf-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpSize=6;orthogonalLoop=1;jettySize=auto;html=1;endSize=6;strokeWidth=4;fontSize=14;fontColor=#FFFFFF;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="660" y="824.5" as="targetPoint" />
             <mxPoint x="660" y="754.5" as="sourcePoint" />
@@ -83,10 +83,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LGrF4aPvjSiB4dfjYXlf-74" value="审核员" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="LGrF4aPvjSiB4dfjYXlf-74" value="审核员" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="560" y="829" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LGrF4aPvjSiB4dfjYXlf-77" value="" style="endArrow=classic;startArrow=classic;html=1;strokeWidth=4;" edge="1" parent="1">
+        <mxCell id="LGrF4aPvjSiB4dfjYXlf-77" value="" style="endArrow=classic;startArrow=classic;html=1;strokeWidth=4;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="765" y="713" as="sourcePoint" />
             <mxPoint x="765" y="883" as="targetPoint" />
@@ -95,7 +95,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LGrF4aPvjSiB4dfjYXlf-78" value="列表页表头不需要有提交状态&#xa;录入页面是提交按钮&#xa;需要查看录入查勘现场情况、车辆统筹情况&#xa;录入剩余项目，包括上传图片" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontSize=14;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="LGrF4aPvjSiB4dfjYXlf-78" value="录入页面是提交按钮&#xa;需要查看录入查勘现场情况、车辆统筹情况&#xa;录入剩余项目，包括上传图片" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontSize=14;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="878" y="745.5" width="300" height="120" as="geometry" />
         </mxCell>
       </root>
